@@ -1,0 +1,20 @@
+﻿
+
+@{
+    ViewData["Title"] = "News";
+}
+
+<h1>News</h1>
+
+
+
+
+@foreach (var noticia in Model.ListaNoticias)
+    {
+        <div>
+            <h4>@noticia.title</h4>
+            <img src="@noticia.urlToImage" />
+            <p>@noticia.description</p>
+        </div>
+    }
+                        */

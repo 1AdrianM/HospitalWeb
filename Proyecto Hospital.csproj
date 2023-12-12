@@ -1,0 +1,87 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>Proyecto_Hospital</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Models\ViewModel\**" />
+    <Compile Remove="Views\News\**" />
+    <Content Remove="Models\ViewModel\**" />
+    <Content Remove="Views\News\**" />
+    <EmbeddedResource Remove="Models\ViewModel\**" />
+    <EmbeddedResource Remove="Views\News\**" />
+    <None Remove="Models\ViewModel\**" />
+    <None Remove="Views\News\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Remove="wwwroot\css\StyleSheet.css" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\images\1.jpg" />
+    <None Include="wwwroot\images\10.jpg" />
+    <None Include="wwwroot\images\2.jpg" />
+    <None Include="wwwroot\images\3.jpg" />
+    <None Include="wwwroot\images\4.jpg" />
+    <None Include="wwwroot\images\5.jpg" />
+    <None Include="wwwroot\images\6.jpg" />
+    <None Include="wwwroot\images\7.jpg" />
+    <None Include="wwwroot\images\8.jpg" />
+    <None Include="wwwroot\images\9.jpg" />
+    <None Include="wwwroot\images\a1.jpg" />
+    <None Include="wwwroot\images\a2.jpg" />
+    <None Include="wwwroot\images\a3.jpg" />
+    <None Include="wwwroot\images\a4.jpg" />
+    <None Include="wwwroot\images\ab.jpg" />
+    <None Include="wwwroot\images\arrow.png" />
+    <None Include="wwwroot\images\banner1.jpg" />
+    <None Include="wwwroot\images\banner2.jpg" />
+    <None Include="wwwroot\images\bg1.jpg" />
+    <None Include="wwwroot\images\bg2.jpg" />
+    <None Include="wwwroot\images\bg3.jpg" />
+    <None Include="wwwroot\images\bg4.jpg" />
+    <None Include="wwwroot\images\c1.png" />
+    <None Include="wwwroot\images\c2.png" />
+    <None Include="wwwroot\images\c3.png" />
+    <None Include="wwwroot\images\cal.png" />
+    <None Include="wwwroot\images\cal1.png" />
+    <None Include="wwwroot\images\close.png" />
+    <None Include="wwwroot\images\g1.jpg" />
+    <None Include="wwwroot\images\g2.jpg" />
+    <None Include="wwwroot\images\g3.jpg" />
+    <None Include="wwwroot\images\g4.jpg" />
+    <None Include="wwwroot\images\g5.jpg" />
+    <None Include="wwwroot\images\g6.jpg" />
+    <None Include="wwwroot\images\g7.jpg" />
+    <None Include="wwwroot\images\g8.jpg" />
+    <None Include="wwwroot\images\g9.jpg" />
+    <None Include="wwwroot\images\left.png" />
+    <None Include="wwwroot\images\move-top.png" />
+    <None Include="wwwroot\images\overlay.png" />
+    <None Include="wwwroot\images\right.png" />
+    <None Include="wwwroot\images\t1.jpg" />
+    <None Include="wwwroot\images\t2.jpg" />
+    <None Include="wwwroot\images\t3.jpg" />
+    <None Include="wwwroot\images\te1.jpg" />
+    <None Include="wwwroot\images\te2.jpg" />
+    <None Include="wwwroot\images\te3.jpg" />
+    <None Include="wwwroot\images\Thumbs.db" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.4" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="7.0.4">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.16" />
+    <PackageReference Include="NewsAPI" Version="0.7.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+
+</Project>

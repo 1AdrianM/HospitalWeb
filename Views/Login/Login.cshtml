@@ -1,0 +1,31 @@
+﻿@model Proyecto_Hospital.Models.Usuario;
+
+@{ViewData["Title"] = "Inicio de Sesion";
+   ViewData["BodyClass"] = "login-page"; // Establece la clase condicional para la vista de login
+    /*Layout = "~/Views/Shared/_Layout.cshtml"; Ajusta la ruta según la ubicación de tu _Layout.cshtml*/
+    }
+
+<!-- ... tu contenido de la vista de login ... -->
+
+<head>
+    <link href="~/css/estilos.css" rel="stylesheet" type="text/css"/>
+    <style>
+        /* Estilos específicos para la vista de login */
+        body.login-page nav {
+            display: none;
+        }
+
+    </style>
+
+</head>
+<div class="log-form">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+    <h2>   Login to your account</h2>
+    <form asp-action="Verify" method="post">
+        <input type="text" asp-for="Username" placeholder="Nombre de Usuario" />
+        <input type="password" asp-for="Password" placeholder="Contraseña"/>
+      <button type="submit"  class="btn">Login</button>
+      <a class="forgot" href="#">Forgot Username?</a>
+    </form>
+  </div><!--end log form -->
