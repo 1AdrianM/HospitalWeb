@@ -1,0 +1,537 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Proyecto Hospital.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Proyecto Hospital.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\css\\estilos.css",
+      "PackagePath": "staticwebassets\\css\\estilos.css"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\fonts\\OFL.txt",
+      "PackagePath": "staticwebassets\\fonts\\OFL.txt"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\fonts\\Poppins-Black.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\fonts\\Poppins-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-BlackItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\fonts\\Poppins-Bold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\fonts\\Poppins-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\fonts\\Poppins-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-ExtraBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\fonts\\Poppins-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\fonts\\Poppins-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-ExtraLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\fonts\\Poppins-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\fonts\\Poppins-Italic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-Italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\fonts\\Poppins-Light.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\fonts\\Poppins-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-LightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\fonts\\Poppins-Medium.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\fonts\\Poppins-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-MediumItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\fonts\\Poppins-Regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\fonts\\Poppins-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\fonts\\Poppins-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\fonts\\Poppins-Thin.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-Thin.ttf"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\fonts\\Poppins-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-ThinItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\images\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\images\\10.jpg",
+      "PackagePath": "staticwebassets\\images\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\images\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\images\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\images\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\images\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\images\\6.jpg",
+      "PackagePath": "staticwebassets\\images\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\images\\7.jpg",
+      "PackagePath": "staticwebassets\\images\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\images\\8.jpg",
+      "PackagePath": "staticwebassets\\images\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\images\\9.jpg",
+      "PackagePath": "staticwebassets\\images\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\images\\Thumbs.db",
+      "PackagePath": "staticwebassets\\images\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\images\\a1.jpg",
+      "PackagePath": "staticwebassets\\images\\a1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\images\\a2.jpg",
+      "PackagePath": "staticwebassets\\images\\a2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\images\\a3.jpg",
+      "PackagePath": "staticwebassets\\images\\a3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\images\\a4.jpg",
+      "PackagePath": "staticwebassets\\images\\a4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\images\\ab.jpg",
+      "PackagePath": "staticwebassets\\images\\ab.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\images\\arrow.png",
+      "PackagePath": "staticwebassets\\images\\arrow.png"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\images\\banner1.jpg",
+      "PackagePath": "staticwebassets\\images\\banner1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\images\\banner2.jpg",
+      "PackagePath": "staticwebassets\\images\\banner2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\images\\bg1.jpg",
+      "PackagePath": "staticwebassets\\images\\bg1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\images\\bg2.jpg",
+      "PackagePath": "staticwebassets\\images\\bg2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\images\\bg3.jpg",
+      "PackagePath": "staticwebassets\\images\\bg3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\images\\bg4.jpg",
+      "PackagePath": "staticwebassets\\images\\bg4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\images\\c1.png",
+      "PackagePath": "staticwebassets\\images\\c1.png"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\images\\c2.png",
+      "PackagePath": "staticwebassets\\images\\c2.png"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\images\\c3.png",
+      "PackagePath": "staticwebassets\\images\\c3.png"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\images\\cal.png",
+      "PackagePath": "staticwebassets\\images\\cal.png"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\images\\cal1.png",
+      "PackagePath": "staticwebassets\\images\\cal1.png"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\images\\close.png",
+      "PackagePath": "staticwebassets\\images\\close.png"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\images\\g1.jpg",
+      "PackagePath": "staticwebassets\\images\\g1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\images\\g2.jpg",
+      "PackagePath": "staticwebassets\\images\\g2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\images\\g3.jpg",
+      "PackagePath": "staticwebassets\\images\\g3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\images\\g4.jpg",
+      "PackagePath": "staticwebassets\\images\\g4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\images\\g5.jpg",
+      "PackagePath": "staticwebassets\\images\\g5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\images\\g6.jpg",
+      "PackagePath": "staticwebassets\\images\\g6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\images\\g7.jpg",
+      "PackagePath": "staticwebassets\\images\\g7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\images\\g8.jpg",
+      "PackagePath": "staticwebassets\\images\\g8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\images\\g9.jpg",
+      "PackagePath": "staticwebassets\\images\\g9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\images\\left.png",
+      "PackagePath": "staticwebassets\\images\\left.png"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\images\\move-top.png",
+      "PackagePath": "staticwebassets\\images\\move-top.png"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\images\\overlay.png",
+      "PackagePath": "staticwebassets\\images\\overlay.png"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\images\\right.png",
+      "PackagePath": "staticwebassets\\images\\right.png"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\images\\t1.jpg",
+      "PackagePath": "staticwebassets\\images\\t1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\images\\t2.jpg",
+      "PackagePath": "staticwebassets\\images\\t2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\images\\t3.jpg",
+      "PackagePath": "staticwebassets\\images\\t3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\images\\te1.jpg",
+      "PackagePath": "staticwebassets\\images\\te1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\images\\te2.jpg",
+      "PackagePath": "staticwebassets\\images\\te2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\images\\te3.jpg",
+      "PackagePath": "staticwebassets\\images\\te3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\CHINO\\source\\repos\\Proyecto Hospital\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Proyecto Hospital.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Proyecto Hospital.props",
+      "PackagePath": "build\\Proyecto Hospital.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Proyecto Hospital.props",
+      "PackagePath": "buildMultiTargeting\\Proyecto Hospital.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Proyecto Hospital.props",
+      "PackagePath": "buildTransitive\\Proyecto Hospital.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

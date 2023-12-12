@@ -1,0 +1,48 @@
+﻿@model Proyecto_Hospital.Models.Appointment
+@{
+    ViewData["Title"] = "Cita";
+}
+
+<h1 class="my-4 text-center">Crear Cita</h1>
+
+<div class="row justify-content-center">
+    <div class="col-md-6 bg-primary p-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Apartment" class="control-label">Departamento</label>
+                <input asp-for="Apartment" class="form-control" />
+                <span asp-validation-for="Apartment" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Name" class="control-label">Nombre</label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Gender" class="control-label">Género</label>
+                <input asp-for="Gender" class="form-control" />
+                <span asp-validation-for="Gender" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Phone" class="control-label">Teléfono</label>
+                <input asp-for="Phone" class="form-control" />
+                <span asp-validation-for="Phone" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Email" class="control-label">Correo Electrónico</label>
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Fecha" class="control-label">Fecha</label>
+                <input asp-for="Fecha" class="form-control" type="date" />
+                <span asp-validation-for="Fecha" class="text-danger"></span>
+            </div>
+            <div class="form-group text-center">
+                <input type="submit" value="Crear" class="btn btn-success" />
+                <a class="btn btn-danger ml-2" asp-action="Index">Volver</a>
+            </div>
+        </form>
+    </div>
+</div>
