@@ -1,17 +1,14 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.DependencyInjection;
 using Proyecto_Hospital.Models;
-using Proyecto_Hospital.Services;
+using Microsoft.AspNetCore.Builder;
+using Microsoft.Extensions.DependencyInjection;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-builder.Services.AddControllersWithViews();
-builder.Services.AddDbContext<HospitalDbContext>(options =>
-       options.UseSqlServer(builder.Configuration.GetConnectionString("conexion")));
-
-var apiKey = "f73ddfb5c14c45dca62858804af76930";
-builder.Services.AddScoped(_ => new NewsService(apiKey));
+ConfigureServices(builder.Services, builder.Configuration);
 
 var app = builder.Build();
 
@@ -29,18 +26,37 @@ app.UseStaticFiles();
 
 app.UseRouting();
 
-
 app.UseAuthorization();
 
 app.UseEndpoints(endpoints =>
 {
-	endpoints.MapControllerRoute(
-		name: "login",
-		pattern: "{controller=Login}/{action=Login}/{id?}",
-		defaults: new { controller = "Login", action = "Login" });
+    endpoints.MapControllerRoute(
+        name: "login",
+        pattern: "{controller=Login}/{action=Login}/{id?}");
+        
 
-	endpoints.MapControllerRoute(
-		name: "default",
-		pattern: "{controller=Home}/{action=Index}/{id?}");
+    endpoints.MapControllerRoute(
+        name: "default",
+        pattern: "{controller=Home}/{action=Index}/{id?}");
 });
+
 app.Run();
+
+void ConfigureServices(IServiceCollection services, IConfiguration configuration)
+{
+    // Otros servicios...
+
+    // Configuración del DbContext
+    services.AddDbContext<HospitalDbContext>(options =>
+        options.UseSqlServer(configuration.GetConnectionString("conexion")));
+
+    // Configuración del servicio NewsService con inyección de dependencias
+    var apiKey = "f73ddfb5c14c45dca62858804af76930";
+    services.AddScoped<INewsServiceApiClient>(_ => new NewsApiClientWrapper(apiKey));
+    services.AddAuthorization();
+    services.AddControllers();
+    services.AddControllersWithViews();
+    services.AddScoped<NewsService>();
+
+    // Otros servicios...
+}
